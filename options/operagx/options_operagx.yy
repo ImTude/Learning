@@ -1,0 +1,18 @@
+{
+  "option_operagx_version": "0.0.0.3",
+  "option_operagx_next_version": "0.0.0.4",
+  "option_operagx_game_name": "2D Learning",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "6a68aec4-87c5-459a-ae1b-f2ae8ff1ebb7",
+  "option_operagx_team_name": "TJAPn studio",
+  "option_operagx_editUrl": "https://dc.gxc.gg/home/games/game/6a68aec4-87c5-459a-ae1b-f2ae8ff1ebb7/edit",
+  "option_operagx_internalShareUrl": "https://gxc.gg/game/6a68aec4-87c5-459a-ae1b-f2ae8ff1ebb7?track=f9200de1-33d6-4d37-b626-9b5c710bc8b0",
+  "option_operagx_publicShareUrl": "",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "tags": [],
+  "resourceType": "GMOperaGXOptions",
+}

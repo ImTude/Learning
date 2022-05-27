@@ -1,0 +1,1 @@
+global.lightswitch = !global.lightswitch;

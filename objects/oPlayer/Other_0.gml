@@ -1,0 +1,2 @@
+/// @description
+state = PLAYERSTATE.DEAD;
